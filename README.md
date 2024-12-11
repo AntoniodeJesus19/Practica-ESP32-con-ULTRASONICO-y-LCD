@@ -90,10 +90,11 @@ void loop()
 ```
 
 4. Instalar la libreria **LiquidCrystal I2C**.
-![](
 
-5. Seleccionamos nuestro sensor en la parte de **Simulacion** en el boton **+** y buscamos **Ultrasonico**, luego buscamos **LCDI2C** y los conectamos de la siguiente manera.
-![]()
+![](https://raw.githubusercontent.com/AntoniodeJesus19/Practica-ESP32-con-ULTRASONICO-y-LCD/95014b324451e007ba17b9f83347f8353bfea3cc/Captura%20de%20pantalla%202024-12-10%20184021.png)
+
+6. Seleccionamos nuestro sensor en la parte de **Simulacion** en el boton **+** y buscamos **Ultrasonico**, luego buscamos **LCDI2C** y los conectamos de la siguiente manera.
+![](https://raw.githubusercontent.com/AntoniodeJesus19/Practica-ESP32-con-ULTRASONICO-y-LCD/95014b324451e007ba17b9f83347f8353bfea3cc/Captura%20de%20pantalla%202024-12-10%20184344.png)
 
 
 ### Instrucciónes de operación
@@ -105,11 +106,11 @@ void loop()
 ## Resultados
 
 Cuando haya funcionado, verás los valores y los textos en la pantalla LCD como se muestran en las siguentes imagenes cada 2s.
-![]()
+![](https://raw.githubusercontent.com/AntoniodeJesus19/Practica-ESP32-con-ULTRASONICO-y-LCD/95014b324451e007ba17b9f83347f8353bfea3cc/Captura%20de%20pantalla%202024-12-10%20184438.png)
 
-![]()
+![](https://raw.githubusercontent.com/AntoniodeJesus19/Practica-ESP32-con-ULTRASONICO-y-LCD/95014b324451e007ba17b9f83347f8353bfea3cc/Captura%20de%20pantalla%202024-12-10%20184500.png)
 
-![]()
+![](https://raw.githubusercontent.com/AntoniodeJesus19/Practica-ESP32-con-ULTRASONICO-y-LCD/95014b324451e007ba17b9f83347f8353bfea3cc/Captura%20de%20pantalla%202024-12-10%20184521.png)
 
 
 # Créditos
